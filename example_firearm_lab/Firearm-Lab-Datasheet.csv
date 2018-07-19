@@ -1,0 +1,10 @@
+Band Strength,Ammunition Type,Mass of Ammunition(grams),Distance between photogates(m),Time between two photogates(s),Pressure Value(Force),Speed(m/s),Acceleration(m/s/s),Kinetic Energy(J)(kg*m^2/s^2),Work,Power
+Weak,Plastic,2,2,0.7,10,2.857142857,5,0.00049,20,28.57142857
+Weak,Metal,4,2,0.6,15,3.333333333,3.75,0.00072,30,50
+Weak,BB,3,2,0.5,12,4,4,0.000375,24,48
+Medium,Plastic,2,2,0.6,13,3.333333333,6.5,0.00036,26,43.33333333
+Medium,Metal,4,2,0.5,17,4,4.25,0.0005,34,68
+Medium,BB,3,2,0.4,15,5,5,0.00024,30,75
+Strong,Plastic,2,2,0.4,15,5,7.5,0.00016,30,75
+Strong,Metal,4,2,0.2,20,10,5,0.00008,40,200
+Strong,BB,3,2,0.3,16,6.666666667,5.333333333,0.000135,32,106.6666667
